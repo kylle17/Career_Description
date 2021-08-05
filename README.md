@@ -70,7 +70,7 @@
 
 
 :heavy_check_mark: <a  href="https://github.com/kylle17/Refactoring/tree/master/0003.%20%5B%20%20%ED%83%AD%20%EA%B8%B0%EB%8A%A5%20JqxTabs%20%20%5D%5B%20Javascript%20%5D" target="_blank"> 
-       탭 기능 로직 가독성 향상시키기 ( JqxTabs ) 
+       탭 기능 로직 가독성 향상시키기 JqxTabs ( Javascript ) 
   </a>
   
   
@@ -80,7 +80,7 @@
   
   
 :heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/blob/master/0002.%20%5B%20Excelupload%20%EB%8B%A4%ED%98%95%EC%84%B1%20%EC%A0%81%EC%9A%A9%20%5D%5B%20Java%20%5D" target="_blank"> 
-        엑셀 업로드 로직에 다형성 적용 ( Excel Upload )
+        Excel Upload 로직에 다형성 적용  ( Javascript )
   </a>
 
 
