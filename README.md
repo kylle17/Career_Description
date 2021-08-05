@@ -80,7 +80,7 @@
   
   
 :heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/blob/master/0002.%20%5B%20Excelupload%20%EB%8B%A4%ED%98%95%EC%84%B1%20%EC%A0%81%EC%9A%A9%20%5D%5B%20Java%20%5D" target="_blank"> 
-        Excel Upload 로직에 다형성 적용  ( Javascript )
+        Excel Upload 로직에 다형성 적용  ( Java )
   </a>
 
 
