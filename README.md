@@ -69,22 +69,22 @@
 ### 리팩터링
 
 
-:heavy_check_mark: <a  href="https://github.com/kylle17/Refactoring/tree/master/0003.%20%5B%20%20%ED%83%AD%20%EA%B8%B0%EB%8A%A5%20JqxTabs%20%20%5D%5B%20Javascript%20%5D" target="_blank"> 
+:heavy_check_mark: <a  href="https://github.com/kylle17/Refactoring/tree/master/0001.%20%5B%20%20%ED%83%AD%20%EA%B8%B0%EB%8A%A5%20JqxTabs%20%20%5D%5B%20Javascript%20%5D" target="_blank"> 
        탭 기능 로직 JqxTabs ( Javascript ) 
   </a>
   
   
-:heavy_check_mark: <a  href="https://github.com/kylle17/Refactoring/blob/master/0001.%20%5B%20%ED%9C%B4%EA%B0%80%20%EA%B3%84%ED%9A%8D%EC%84%9C%20%EC%97%91%EC%85%80%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%5D%5B%20Excel%20Download%20%5D%5B%20Delphi%20%5D/README.md" target="_blank"> 
+:heavy_check_mark: <a  href="https://github.com/kylle17/Refactoring/tree/master/0002.%20%5B%20Excel%20Download%20%5D%5B%20Delphi%20%5D" target="_blank"> 
         Excel Download 로직 ( Delphi ) 
   </a>
   
   
-:heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/blob/master/0002.%20%5B%20Excelupload%20%EB%8B%A4%ED%98%95%EC%84%B1%20%EC%A0%81%EC%9A%A9%20%5D%5B%20Java%20%5D" target="_blank"> 
+:heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/tree/master/0003.%20%5B%20Excelupload%20%EB%8B%A4%ED%98%95%EC%84%B1%20%EC%A0%81%EC%9A%A9%20%5D%5B%20Java%20%5D" target="_blank"> 
         Excel Upload 로직에 다형성 적용  ( Java )
   </a>
 
 
-:heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/tree/master/0004.%20%5B%20%20%EA%B2%BD%EC%98%81%EC%8B%A4%EC%A0%81%20%EC%BF%BC%EB%A6%AC%EB%AC%B8%20%20%5D%5B%20SQL%20%5D" target="_blank"> 
+:heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/tree/master/0004.%20%5B%20%20%EC%BF%BC%EB%A6%AC%EB%AC%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%20%5D%5B%20Oracle%20%5D" target="_blank"> 
        쿼리문 리팩터링 ( Oracle )
 </a>
 
