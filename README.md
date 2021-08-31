@@ -56,10 +56,7 @@
         - :heavy_check_mark: <a  href="https://github.com/kylle17/Refactoring/tree/master/0001.%20%5B%20%20%ED%83%AD%20%EA%B8%B0%EB%8A%A5%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%20%5D%5B%20JqxTabs%20%2C%20Javascript%20%5D" target="_blank"> 
        탭 기능 로직 리팩터링 ( JqxTabs , Javascript ) 
   </a><br>
-  
-        - :heavy_check_mark: <a  href="https://github.com/kylle17/Refactoring/tree%20JqxTabs%20%20%5D%5B%20Javascript%20%5D" target="_blank"> 
-       그리드 모듈화 ( JqxGrid , Javascript ) 
-  </a>
+
  
  
 </br> </br>  
