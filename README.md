@@ -19,12 +19,15 @@
       - 각종 비용 등록 , 조회 메뉴 ( Poi Excel 업로드 )
       - 경영실적 분석 프로그램 ( 일종의 손익계산서 )
   - 개선 : 
-      - 문제: 서브쿼리의 반복으로 인한 
-      - 해결: 
-              :heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/tree/master/0004.%20%5B%20%20%EC%BF%BC%EB%A6%AC%EB%AC%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%20%5D%5B%20Oracle%20%5D" target="_blank"> 
-       쿼리문 리팩터링 ( Oracle )
-</a>
+      - 문제: 똑같은 SELECT절을 반복해서 서브쿼리로 사용하여 중복이 발생했다. </br>
+      - 해결: 이부분을 단계별로 WITH문을 구성해서 재사용했다. </br>
+:heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/tree/master/0004.%20%5B%20%20%EC%BF%BC%EB%A6%AC%EB%AC%B8%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%20%5D%5B%20Oracle%20%5D" target="_blank"> 
+       쿼리문 리팩터링 ( Oracle )</a></br></br>
+       
+     - 문제: 똑같은 SELECT절을 반복해서 서브쿼리로 사용하여 중복이 발생했다.
+     - 해결: 이부분을 단계별로 WITH문을 구성해서 재사용했다.     
       
+ 
 
 
 
@@ -47,8 +50,8 @@
        - 스캔리스트 관리 메뉴
 
   - 개선 : 
-       - 문제 : 
-       - 해결 :  
+       - 문제 : 엑셀 확장자별로 사용하는 클래스가 달라서 확장자 별로 로직이 하나씩 생기는 문제가 발생.
+       - 해결 : 다형성을 활용하여 해결.   
             :heavy_check_mark: <a href="https://github.com/kylle17/Refactoring/tree/master/0003.%20%5B%20Excelupload%20%EB%8B%A4%ED%98%95%EC%84%B1%20%EC%A0%81%EC%9A%A9%20%5D%5B%20Java%20%5D" target="_blank"> 
         Excel Upload 로직에 다형성 적용  ( Java )
   </a>
@@ -64,9 +67,9 @@
 
    - 내용 : 인사 , 급여 , 퇴직 , 연말정산 업무 및 세무신고
    - 고객사 : (주)천일정기화물자동차 계열사  
-   - 환경 : Java , JSP , jQuery , DB2
-      - 프론트엔드 : Javascript , JSP 
-      - 백엔드 : Java JDK 1.8 , Oracle 10g 
+   - 환경 : 
+      - 프론트엔드 : Javascript , jQuery , JSP 
+      - 백엔드 : Java JDK 1.8 , DB2
       - 기타 : Eclipse , Gradle , Resin 3.1
    - 담당 :  
         - 시스템 전체 유지보수
@@ -74,7 +77,7 @@
         - 원천징수이행상환신고서 작성
   - 개선 : 
        - 문제 : 
-       - 해결 :   
+       - 해결 : 
               :heavy_check_mark: <a  href="https://github.com/kylle17/Refactoring/tree/master/0001.%20%5B%20%20%ED%83%AD%20%EA%B8%B0%EB%8A%A5%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%20%20%5D%5B%20JqxTabs%20%2C%20Javascript%20%5D" target="_blank"> 
        탭 기능 로직 리팩터링 ( JqxTabs , Javascript ) 
   </a><br>
